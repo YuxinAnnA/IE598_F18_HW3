@@ -201,3 +201,7 @@ corMat = DataFrame(rocksVMines.corr())
 #visualize correlations using heatmap
 plot.pcolor(corMat)
 plot.show()
+
+print("My name is Yuxin Sun")
+print("My NetID is: yuxins5")
+print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
